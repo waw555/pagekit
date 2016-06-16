@@ -451,4 +451,5 @@
   'Name' => 'Имя',
   'Page not found.' => 'Страница не найдена.',
   'Please enable the PHP Open SSL extension.' => 'Пожалуйста, включите PHP расширение Open SSL.',
+  'Manage extensions and themes' => 'Менеджер расширений и тем',
 );
